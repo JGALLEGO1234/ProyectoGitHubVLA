@@ -1,6 +1,7 @@
 .container {
     background-color: #ADD8E6;
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
 .navbarcolor {
     color: black;
@@ -10,4 +11,18 @@
 }
 .accordion-item {
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.accordion-body {
+    font-family: Helvetica, sans-serif; 
+    font-style: italic;
+    font-weight: bold;
+}
+.TOKYOMAP {
+    font-family: sans-serif;
+    font-weight:bold ;
+}
+.Copyname {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
 }
